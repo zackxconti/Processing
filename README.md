@@ -1,2 +1,2 @@
 # Processing
-Miscellaneous mini applets in processing
+Miscellaneous applets in processing
